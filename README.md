@@ -8,7 +8,7 @@ In this mini game, the player controls a `Hay machine`, and has to save sheeps f
 - Fixed error where sheeps dropped where counted twice.
 - Activated the Audio Source on the Music GameObject in the `Game scene` so that the music cplays during the game.
 
-##Version 2
+## Version 2
 - Increaed spawnrate of sheeps over time has been implemented.
 - Implemented Qol elements: when returning from `Game scene` the color of the `Hay machine` does not return to blue, keeps the current color.
 - Added `PowerUps` to increase survivability after some time has passed and difficulty has increased.
