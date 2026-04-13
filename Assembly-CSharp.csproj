@@ -51,10 +51,12 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\TweenScale.cs" />
     <Compile Include="Assets\Scripts\SheepSpawner.cs" />
+    <Compile Include="Assets\Scripts\PowerUpSpawner.cs" />
     <Compile Include="Assets\Scripts\Shared\GameSettings.cs" />
     <Compile Include="Assets\Scripts\Sheep.cs" />
     <Compile Include="Assets\Scripts\DestroyOnTrigger.cs" />
     <Compile Include="Assets\Scripts\Managers\UIManager.cs" />
+    <Compile Include="Assets\Scripts\ScreenShake.cs" />
     <Compile Include="Assets\Scripts\Title\QuitButton.cs" />
     <Compile Include="Assets\Scripts\Managers\SoundManager.cs" />
     <Compile Include="Assets\Scripts\Shared\HayMachineSwitcher.cs" />
@@ -65,6 +67,7 @@
     <Compile Include="Assets\Scripts\Title\StartButton.cs" />
     <Compile Include="Assets\Scripts\DestroyTimer.cs" />
     <Compile Include="Assets\Scripts\Title\ChangeColorOnMouseOver.cs" />
+    <Compile Include="Assets\Scripts\PowerUpItem.cs" />
     <Compile Include="Assets\Scripts\Managers\GameStateManager.cs" />
   </ItemGroup>
   <ItemGroup>

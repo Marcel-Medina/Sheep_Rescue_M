@@ -3,29 +3,30 @@ using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
 {
-    public static UIManager Instance; 
+    public static UIManager Instance;
 
-    public Text sheepSavedText; 
-    public Text sheepDroppedText; 
-    public GameObject gameOverWindow; 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public Text sheepSavedText;
+    public Text sheepDroppedText;
+    public GameObject gameOverWindow;
+
     void Awake()
     {
         Instance = this;
     }
 
-    public void UpdateSheepSaved() 
+    public void UpdateSheepSaved()
     {
+        // Now this matches the variable in GameStateManager
         sheepSavedText.text = GameStateManager.Instance.sheepSaved.ToString();
     }
 
-    public void UpdateSheepDropped() 
+    public void UpdateSheepDropped()
     {
         sheepDroppedText.text = GameStateManager.Instance.sheepDropped.ToString();
     }
+
     public void ShowGameOverWindow()
     {
         gameOverWindow.SetActive(true);
     }
-
 }

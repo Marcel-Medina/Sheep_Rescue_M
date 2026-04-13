@@ -55,7 +55,7 @@ public class Sheep : MonoBehaviour
     private void Drop()
     {
         GameStateManager.Instance.DroppedSheep();
-
+        Camera.main.GetComponent<CameraShake>().Shake();
         sheepSpawner.RemoveSheepFromList(gameObject);
         isDropping = true;
         myRigidbody.isKinematic = false; 

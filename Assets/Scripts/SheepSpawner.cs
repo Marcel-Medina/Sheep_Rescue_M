@@ -7,8 +7,11 @@ public class SheepSpawner : MonoBehaviour
     public bool canSpawn = true; 
 
     public GameObject sheepPrefab; 
-    public List<Transform> sheepSpawnPositions = new List<Transform>(); 
-    public float timeBetweenSpawns; 
+    public List<Transform> sheepSpawnPositions = new List<Transform>();
+    [Header("Spawn Timing")]
+    public float initialTimeBetweenSpawns;
+    public float minTimeBetweenSpawns;
+    public float timeToReachMaxDifficulty; // Seconds until it hits the minimum interval
 
     private List<GameObject> sheepList = new List<GameObject>(); 
 
@@ -34,8 +37,13 @@ public class SheepSpawner : MonoBehaviour
     {
         while (canSpawn) 
         {
-            SpawnSheep(); 
-            yield return new WaitForSeconds(timeBetweenSpawns); 
+            SpawnSheep();
+            float progress = Mathf.Clamp01(Time.timeSinceLevelLoad / timeToReachMaxDifficulty);
+
+            // Gradually move from initial time to minimum time
+            float currentWaitTime = Mathf.Lerp(initialTimeBetweenSpawns, minTimeBetweenSpawns, progress);
+
+            yield return new WaitForSeconds(currentWaitTime);
         }
     }
     public void RemoveSheepFromList(GameObject sheep)

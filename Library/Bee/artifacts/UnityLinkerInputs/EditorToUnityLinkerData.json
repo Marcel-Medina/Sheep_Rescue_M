@@ -11,6 +11,13 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "CameraShake",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "ChangeColorOnMouseOver",
             "moduleName": "",
             "usedInScenes": []
@@ -140,6 +147,20 @@
             "nativeClass": "PhysicsManager",
             "fullManagedTypeName": "",
             "moduleName": "Physics",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PowerUpItem",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "PowerUpSpawner",
+            "moduleName": "",
             "usedInScenes": []
         },
         {

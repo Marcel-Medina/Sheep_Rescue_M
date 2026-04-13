@@ -1,5 +1,6 @@
 <linker>
 	<assembly fullname="Assembly-CSharp">
+		<type fullname="CameraShake" preserve="nothing"/>
 		<type fullname="ChangeColorOnMouseOver" preserve="nothing"/>
 		<type fullname="DestroyOnTrigger" preserve="nothing"/>
 		<type fullname="DestroyTimer" preserve="nothing"/>
@@ -7,6 +8,8 @@
 		<type fullname="HayMachine" preserve="nothing"/>
 		<type fullname="HayMachineSwitcher" preserve="nothing"/>
 		<type fullname="Move" preserve="nothing"/>
+		<type fullname="PowerUpItem" preserve="nothing"/>
+		<type fullname="PowerUpSpawner" preserve="nothing"/>
 		<type fullname="QuitButton" preserve="nothing"/>
 		<type fullname="Rotate" preserve="nothing"/>
 		<type fullname="Sheep" preserve="nothing"/>

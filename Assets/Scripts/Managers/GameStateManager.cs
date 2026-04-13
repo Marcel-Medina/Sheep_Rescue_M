@@ -3,51 +3,64 @@ using UnityEngine.SceneManagement;
 
 public class GameStateManager : MonoBehaviour
 {
-    public static GameStateManager Instance; 
+    public static GameStateManager Instance;
 
     [HideInInspector]
-    public int sheepSaved; 
+    public int sheepSaved; // Use this for both UI and Power-ups
 
     [HideInInspector]
-    public int sheepDropped; 
+    public int sheepDropped;
 
-    public int sheepDroppedBeforeGameOver; 
+    public int sheepDroppedBeforeGameOver;
     public SheepSpawner sheepSpawner;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public PowerUpSpawner powerUpSpawner;
+
     void Awake()
     {
         Instance = this;
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             SceneManager.LoadScene("Title");
         }
-
     }
+
     public void SavedSheep()
     {
+        // 1. Increment the correct variable
         sheepSaved++;
+
+        // 2. Trigger UI update
         UIManager.Instance.UpdateSheepSaved();
+
+        // 3. Check for Power-Up (Every 30 sheep)
+        if (sheepSaved > 0 && sheepSaved % 30 == 0)
+        {
+            if (powerUpSpawner != null)
+            {
+                powerUpSpawner.SpawnPowerUp();
+            }
+        }
     }
-    private void GameOver()
-    {
-        sheepSpawner.canSpawn = false; 
-        sheepSpawner.DestroyAllSheep();
-        UIManager.Instance.ShowGameOverWindow();
-    }
+
     public void DroppedSheep()
     {
         sheepDropped++;
         UIManager.Instance.UpdateSheepDropped();
 
-        if (sheepDropped == sheepDroppedBeforeGameOver) 
+        if (sheepDropped >= sheepDroppedBeforeGameOver)
         {
             GameOver();
         }
     }
 
+    private void GameOver()
+    {
+        sheepSpawner.canSpawn = false;
+        sheepSpawner.DestroyAllSheep();
+        UIManager.Instance.ShowGameOverWindow();
+    }
 }
