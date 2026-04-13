@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\HayMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HayMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\github\\sheep_rescue_m\\assets\\scripts\\shared\\haymachineswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shared\\haymachineswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\github\\sheep_rescue_m\\assets\\scripts\\shared\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shared\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\github\\sheep_rescue_m\\assets\\scripts\\shared\\haymachinecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shared\\haymachinecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\github\\sheep_rescue_m\\assets\\scripts\\title\\changecoloronmouseover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\title\\changecoloronmouseover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\github\\sheep_rescue_m\\assets\\scripts\\title\\quitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\title\\quitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\github\\sheep_rescue_m\\assets\\scripts\\title\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\title\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\github\\sheep_rescue_m\\assets\\scripts\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\github\\sheep_rescue_m\\assets\\scripts\\managers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\github\\sheep_rescue_m\\assets\\scripts\\destroyontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\github\\sheep_rescue_m\\assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\usuario\\documents\\github\\sheep_rescue_m\\assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HayMachineSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Shared\\HayMachineSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shared\\HayMachineSwitcher.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Shared\\HayMachineSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shared\\HayMachineSwitcher.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:57:42.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Shared\\GameSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shared\\GameSettings.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Shared\\GameSettings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shared\\GameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:56:37.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HayMachineColor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Shared\\HayMachineColor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shared\\HayMachineColor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Shared\\HayMachineColor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shared\\HayMachineColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:55:36.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeColorOnMouseOver.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Title\\ChangeColorOnMouseOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Title\\ChangeColorOnMouseOver.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Title\\ChangeColorOnMouseOver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Title\\ChangeColorOnMouseOver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:44:09.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuitButton.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Title\\QuitButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Title\\QuitButton.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Title\\QuitButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Title\\QuitButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:42:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartButton.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Title\\StartButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Title\\StartButton.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Title\\StartButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Title\\StartButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:40:00.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Managers\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Managers\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\SoundManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T08:16:36.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sheep.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Sheep.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sheep.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Sheep.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sheep.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:51:43.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DestroyOnTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\DestroyOnTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOnTrigger.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\DestroyOnTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOnTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:46:15.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Move.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Move.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Move.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:33:29.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotate.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\Rotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:16:41.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HayMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\HayMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HayMachine.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Sheep_Rescue_M\\Assets\\Scripts\\HayMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HayMachine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T07:24:03.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
